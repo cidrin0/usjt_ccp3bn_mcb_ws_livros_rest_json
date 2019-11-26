@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">usjt_ccp3bn_mcb_ws_livros_rest_json</string>
+    <string name="action_settings">Settings</string>
+    <string name="host_address">http://10.0.2.2</string>
+    <string name="host_port">:9090</string>
+    <string name="endpoint_base">/livros</string>
+    <string name="endpoint_listar">/lista</string>
+    <string name="endpoint_salvar">/salvar</string>
+    <string name="endpoint_buscar_por_id">/%d</string>
+    <string name="title_activity_livro_edit">LivroEditActivity</string>
+    <string name="titulo_message">digite o titulo</string>
+    <string name="autor_message">digite nome do autor</string>
+    <string name="editor_message">digite o nome do editor</string>
+    <string name="somethig_got_wrong">Algo deu errado</string>
+</resources>
